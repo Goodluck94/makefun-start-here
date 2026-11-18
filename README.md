@@ -178,6 +178,14 @@ GitHub when you submit, so the commit you enter must already be pushed — with
 the README and its screenshot in it. An unpushed commit, or a commit without
 the screenshot, cannot be entered.
 
+### Before you submit — quick checklist
+
+- The guide is pushed to the public GitHub repository, not just saved on your own machine.
+- The commit you are entering contains both the README and its screenshot.
+- The referral link in the README is your own — check it against the Referrals tab on your profile.
+- The repository has an open-source license; MIT is the usual one.
+- The local `check` passes with no failures.
+
 ## Step 6 — Follow it, fix it, resubmit
 
 ```sh
@@ -258,6 +266,14 @@ credentials, e-mail addresses and home paths before upload, and
 Read the reasons `status` gives you, fix each one, and submit again before the
 deadline. Rejections are common on a first entry — the checks are strict, and
 every failed check prints its fix.
+</details>
+
+<details>
+<summary><strong>Can I enter the same guide in two bounties?</strong></summary>
+
+Yes — each bounty judges its own entry, so adapt the guide for each bounty and
+submit it separately per bounty. Your referral link stays the same across
+entries.
 </details>
 
 ## Links
