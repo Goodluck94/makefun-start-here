@@ -173,6 +173,11 @@ node cli/makefun.mjs submit --competition <bounty-slug> \
 The `--keypair` signs the entry with the wallet `login` set up in step 1. That
 wallet is where the reward will be paid.
 
+Push before you submit. For a guide bounty the site reads your repository from
+GitHub when you submit, so the commit you enter must already be pushed — with
+the README and its screenshot in it. An unpushed commit, or a commit without
+the screenshot, cannot be entered.
+
 ## Step 6 — Follow it, fix it, resubmit
 
 ```sh
