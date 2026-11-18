@@ -1,11 +1,11 @@
 # Changelog
 
-## v1.0 — 2026-11-18
+## 1.0 — 2026-11-18
 
-- First published guide: how to enter make.fun bounties with your AI agent, with the referral link, the licence and the screenshot.
+- First release of this guide, walking newcomers through entering make.fun bounties with an AI agent. It includes the referral link, the licence, and a screenshot of the finished guide.
 
-## v1.1 — 2026-11-18
+## 1.1 — 2026-11-18
 
-- Added a note in Step 5: push before you submit, so the entered commit already holds the README and its screenshot.
-- Added a pre-submit checklist to Step 5.
-- Added a Questions entry: the same guide can be entered in two bounties, submitted separately per bounty, with the same referral link.
+- Step 5 now reminds you to push your changes before you submit, so the commit you enter already contains the README and the screenshot.
+- Step 5 also gained a short checklist to run through before submitting.
+- The Questions section now notes that one guide can go into two bounties, as two separate submissions, both using the same referral link.
